@@ -1,9 +1,9 @@
 using System;
 
-class Program
+public class Program
 {
-    static void Main()
-    {
+    public static void Main()
+    {        
         int n = int.Parse(Console.ReadLine());
         int t = n, c = 0;
 
